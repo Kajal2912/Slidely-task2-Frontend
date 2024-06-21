@@ -1,0 +1,22 @@
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\slidely task2.exe
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\slidely task2.deps.json
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\slidely task2.runtimeconfig.json
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\slidely task2.dll
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\slidely task2.pdb
+C:\Users\kajal\source\repos\slidely task2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.vbproj.AssemblyReference.cache
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely_task2.CreateFormSubmission.resources
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely_task2.MainFrame.resources
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely_task2.Resources.resources
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely_task2.ViewFormSubmission.resources
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.vbproj.GenerateResource.cache
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.AssemblyInfoInputs.cache
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.AssemblyInfo.vb
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.vbproj.CoreCompileInputs.cache
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely .A4153D19.Up2Date
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.dll
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\refint\slidely task2.dll
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.pdb
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\slidely task2.genruntimeconfig.cache
+C:\Users\kajal\source\repos\slidely task2\obj\Debug\net8.0-windows\ref\slidely task2.dll
